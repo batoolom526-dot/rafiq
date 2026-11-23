@@ -1,0 +1,6 @@
+node_modules
+dist
+publish
+*.zip
+# personal character sheet: kept out of the public repo
+public/sample-sheet.webp
